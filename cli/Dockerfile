@@ -1,4 +1,4 @@
-FROM node:14.8.0-buster-slim
+FROM node:14.14.0-buster-slim
 
 WORKDIR /former2
 
