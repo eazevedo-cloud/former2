@@ -1,4 +1,4 @@
-FROM node:14.14.0-buster-slim
+FROM debian:bookworm-slim
 
 WORKDIR /former2
 
